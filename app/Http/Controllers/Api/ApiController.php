@@ -2,6 +2,7 @@
 namespace App\Http\Controllers\API;
 use App\Quote;
 use App\Repositories\ApiRepository;
+use App\Repositories\ApiRepositoryIterface;
 use ArrayObject;use GuzzleHttp\Exception\GuzzleException;
 use Illuminate\Http\Request;
 use Illuminate\Routing\Controller;
@@ -17,7 +18,7 @@ use Illuminate\Database\Eloquent\Relations;
 class ApiController extends Controller
 {
     private $apiRepository;
-    public function __construct(ApiRepository $apiRepository)
+    public function __construct(ApiRepositoryIterface $apiRepository)
     {
         $this->apiRepository = $apiRepository;
     }

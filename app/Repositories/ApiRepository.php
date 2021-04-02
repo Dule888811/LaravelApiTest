@@ -6,7 +6,7 @@ namespace App\Repositories;
 
 use App\Quote;
 
-class ApiRepository
+class ApiRepository implements ApiRepositoryIterface
 {
      public function GetApiRes()
      {
