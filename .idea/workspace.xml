@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15152b81-668a-48a1-901b-888da630aa2a" name="Default Changelist" comment="" />
+    <list default="true" id="15152b81-668a-48a1-901b-888da630aa2a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Api/ApiController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Api/ApiController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,7 +17,11 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1qWucN55ee86sY9EWyf7zYbsbsL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -20,6 +29,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -49,7 +59,7 @@
       <workItem from="1617348533328" duration="8684000" />
       <workItem from="1617358010690" duration="10326000" />
       <workItem from="1617374889241" duration="5598000" />
-      <workItem from="1617382716534" duration="5509000" />
+      <workItem from="1617382716534" duration="10171000" />
     </task>
     <servers />
   </component>
@@ -61,14 +71,18 @@
       <screen x="0" y="0" width="1024" height="728" />
     </state>
     <state x="419" y="56" key="#com.intellij.ide.util.MemberChooser/0.0.1024.728@0.0.1024.728" timestamp="1617277052368" />
-    <state x="330" y="235" key="NewPhpClassDialog" timestamp="1617249209859">
+    <state x="292" y="133" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1617395032556">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
-    <state x="330" y="235" key="NewPhpClassDialog/0.0.1024.728@0.0.1024.728" timestamp="1617249209859" />
-    <state x="347" y="308" key="NewPhpFileDialog" timestamp="1617249173151">
+    <state x="292" y="133" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1024.728@0.0.1024.728" timestamp="1617395032556" />
+    <state x="330" y="235" key="NewPhpClassDialog" timestamp="1617394844815">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
-    <state x="347" y="308" key="NewPhpFileDialog/0.0.1024.728@0.0.1024.728" timestamp="1617249173151" />
+    <state x="330" y="235" key="NewPhpClassDialog/0.0.1024.728@0.0.1024.728" timestamp="1617394844815" />
+    <state x="347" y="308" key="NewPhpFileDialog" timestamp="1617391822978">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="347" y="308" key="NewPhpFileDialog/0.0.1024.728@0.0.1024.728" timestamp="1617391822978" />
     <state x="100" y="119" width="824" height="518" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1617359663609">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
